@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program5
+comment0.text=\r\n\ Write\ a\ program\ to\ input\ a\ number\ and\ find\ its\ factorial.\r\n\ \ Sample\ Input\ 5\:\r\n\ \ Sample\ Output\ \:\ 120\ [Hint\ \:\ 1x2x3x4x5].\r\n\r\n\ \r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

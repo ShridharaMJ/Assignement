@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program1
+comment0.text=\r\n\ \r\n\ Write\ a\ program\ to\ input\ name\ and\ marks\ in\ Physics,\ Chemistry\ and\ Biology\ of\r\n\ a\ single\ student.\ Display\ the\ name,\ total,\ average\ marks\ and\ the\ grades\r\n\ \ obtained.\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

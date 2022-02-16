@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program8
+comment0.text=\r\n\ Write\ a\ program\ to\ input\ the\ number\ of\ employees\ in\ the\ marketing\ company.\ Accept\ the\ employee\ id,\ \r\n\ name\ and\ basic\ salary\ of\ each\ employee\ and\ calculate\ his/her\ total\ salary\ as\ follows\:\ \r\n\ HRA\=\ 12%\ of\ the\ basic\ salary\r\n\ DA\ \=\ 15%\ of\ the\ basic\ salary\ \r\n\ PF\ Deduction\ \=\ Rs.1800\ Total\r\n\ salary\=\ Basic\ +\ HRA\ +DA\ -\ PF\r\n\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

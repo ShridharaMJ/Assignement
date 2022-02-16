@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program3
+comment0.text=\r\n\ A\ publisher\ is\ selling\ a\ particular\ book\ to\ the\ book\ stores.\ Write\ a\ program\ to\ input\ a\ customer\u2019s\ name\ and\ the\ quantity\ purchased.\ \r\n\ Calculate\ the\ total\ amount\ and\ print\ the\ bill\ as\ shown\ below\ after\ applying\ a\ discount\ based\ on\ the\ table\ given\ below.\ \r\n\ Quantity\ Discount\ on\ the\ total\ amount\ Less\ than\ or\ equal\ to\ 2\ books\ 3%\r\n\ \ More\ than\ 2\ books\ and\ less\ than\ or\ equal\ to\ 5\ books\ 7%\ \r\n\ \ More\ than\ 5\ books\ and\ less\ than\ or\ equal\ to\ 10\ books\ 10%\ \r\n\ \ Print\ the\ bill\ as\ follows\:\ \r\n\ \ Customer\u2019s\ Name\ \:\ xxxx\ \r\n\ \ Quantity\ \:\ xxxx\ \r\n\ \ Total\ amount\ \:\ xxxx\ \r\n\ \ Discounted\ amount\ \:\ xxxx\ \r\n\ \ Amount\ payable\ \:\ xxxx\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

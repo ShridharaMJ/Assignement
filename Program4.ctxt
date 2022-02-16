@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program4
+comment0.text=\r\n\ Write\ a\ program\ to\ read\ an\ integer\ number\ and\ a\ digit.\ Print\ the\ total\ number\ of\r\n\ \ occurrences\ of\ the\ input\ digit\ in\ that\ number.\r\n\ \ Sample\ Input\:\r\n\ \ Enter\ the\ number\ \:\ 54585\r\n\ \ Enter\ the\ digit\ \:\ 5\r\n\ \ Sample\ Output\:\ Occurs\ 3\ times\r\n\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

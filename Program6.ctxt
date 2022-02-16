@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program6
+comment0.text=\r\n\ Write\ a\ Java\ program\ to\ input\ a\ number\ and\ check\ whether\ it\ is\ a\ Pronic\r\n\ Number\ or\ not.\ A\r\n\ Pronic\ number\ is\ a\ number\ which\ is\ the\ product\ of\ two\ consecutive\ integers,\r\n\ that\ is,\ a\ number\ of\ the\ form\ n(n\ +\ 1).\r\n\ Sample\ Input\ \:\ 110\r\n\ Sample\ Output\:\ Pronic\ Number.\r\n\ (Hint\:\ Since\ it\ is\ a\ product\ of\ 10*11\ that\ is,\ n*n+1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program9
+comment0.text=\r\n\ Write\ a\ program\ to\ input\ a\ number\ and\ display\ the\ new\ number\ after\ reversing\ the\ digits\ of\ the\ original\ number.\ \r\n\ The\ program\ also\ displays\ the\ absolute\ difference\ the\ original\ number\ and\ the\ reversed\ number.\ \r\n\ Sample\ Input\:\ 194\ \r\n\ Sample\ Output\:\ 491\ \r\n\ Absolute\ difference\ \=\ 297\uFFFD\r\n\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

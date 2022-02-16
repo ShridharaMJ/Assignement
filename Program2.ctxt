@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program2
+comment0.text=\r\n\ Write\ a\ program\ to\ input\ the\ five\ subject\ marks\ (\ English,\ Maths,\ Physics,\r\n\ \ Chemistry\ and\ Biology)\ for\ 40\ students\ using\ a\ for\ loop\ and\ calculate\ and\ print\r\n\ the\ class\ average\ for\ the\ following\ subjects\:\r\na)\ Science\r\nb)\ English\r\nc)\ Maths\r\n\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
